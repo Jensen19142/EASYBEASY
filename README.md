@@ -1,5 +1,5 @@
 # Notes to kickstart the EASYBEASY webpage 
-
+Ensure that you run the command "cd easybeasy" to change to the appropriate directory.
 Remember to run the command "nvm install node" to update to the latest version of node. 
 Then, run the command "npm start" to kickstart the webpage.
 
