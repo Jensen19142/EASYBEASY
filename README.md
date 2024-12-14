@@ -1,4 +1,4 @@
-# Notes to myself
+# Notes to kickstart the EASYBEASY webpage
 
 Remember the command "nvm install node" to update to the latest version of node
 "npm start" to kickstart the webpage
