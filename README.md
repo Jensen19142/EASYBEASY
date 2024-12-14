@@ -1,7 +1,7 @@
-# Notes to kickstart the EASYBEASY webpage
+# Notes to kickstart the EASYBEASY webpa
 
-Remember the command "nvm install node" to update to the latest version of node
-"npm start" to kickstart the webpage
+Remember to run the command "nvm install node" to update to the latest version of node. 
+Then, run the command "npm start" to kickstart the webpage.
 
 # Getting Started with Create React App
 
