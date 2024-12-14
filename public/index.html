@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- 3D Molecular Viewer Component -->
+    <!-- Required for IE11 -->
+    <script src="https://cdn.jsdelivr.net/npm/babel-polyfill/dist/polyfill.min.js"></script>
+    <!-- Web component polyfill (only loads what it needs) -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-lite.js"
+      charset="utf-8"
+    ></script>
+    <!-- Required to polyfill modern browsers as code is ES5 for IE... -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/custom-elements-es5-adapter.js"
+      charset="utf-8"
+    ></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-3.1.0.css"
+    />
+    <script
+      type="text/javascript"
+      src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-component-3.1.0.js"
+    ></script>
+    <style>
+      #myViewer {
+        float: left;
+        width: 90%;
+        height: 500px;
+        position: relative;
+      }
+    </style>
+
+    <!-- 2D Protein-Ligand Interaction Map Component -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- CSS style to be used for scene drawing (required for saving SVGs.) -->
+    <link rel="stylesheet" href="pdb-ligand-env-svg.css" />
+    <!-- CSS style to be used for scene drawing (required for saving SVGs.) -->
+    <link
+      rel="stylesheet"
+      href="http://127.0.0.1:8080/pdb-ligand-env-svg.css"
+    />
+    <!-- CSS style to be used for the component UI -->
+    <link rel="stylesheet" href="pdb-ligand-env.css" />
+    <!-- UI icons -->
+    <link
+      rel="stylesheet"
+      href="https://ebi.emblstatic.net/web_guidelines/EBI-Icon-fonts/v1.3/fonts.css"
+    />
+    <!-- Web component polyfill (only loads what it needs) -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-lite.js"
+      charset="utf-8"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/custom-elements-es5-adapter.js"
+      charset="utf-8"
+    ></script>
+    <!--PDBe interactions component-->
+    <script
+      type="module"
+      src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdb-ligand-env-component-1.0.0-min.js"
+    ></script>
+    <link
+      href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdb-ligand-env-svg.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen, projection"
+    />
+    <link
+      href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-light-3.1.0.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen, projection"
+    />
+    <link
+      href="/pdbe/entry/static/3NAduThrzIQBle3JZIW8k1XLaQTpIgbnzAFnfQRmGnt.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen, projection"
+    />
+    <link
+      href="/pdbe/entry/static/0wp1KlqjhTsLUUrs9fIgtMzSzDshnd2fOBJCLIrOvPN.css"
+      type="text/css"
+      rel="stylesheet"
+      media="screen, projection"
+    />
+    <link
+      href="/pdbe/entry/static/pZR7lK9t3bkOEK9nfVcypDUditFL3gmBV3BO60DzDNC.css"
+      type="text/css"
+      rel="stylesheet"
+      media="print"
+    />
+    <style>
+      #ligandViewer {
+        float: right;
+        width: 90%;
+        height: 500px;
+        position: relative;
+        border-style: solid;
+        margin-right: 60px;
+      }
+    </style>
+
+    <!-- pdb-ligand-env-component-0.3.0-min.js -->
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>EASYBEASY!!!</title>
+  </head>
+
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root" class="loader"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
