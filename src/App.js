@@ -9,6 +9,7 @@ import ProteinStructureVisualizationPage from "./Pages/ProteinStructureVisualiza
 import DNAAnalysisPage from "./Pages/DNAAnalysisPage";
 import PhylogeneticsPage from "./Pages/PhylogeneticsPage";
 import AboutPage from "./Pages/AboutPage";
+import CellularImageAnalysisPage from "./Pages/CellularImageAnalysis";
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
             <Route path="/dnasequenceanalysis" element={<DNAAnalysisPage />} />
             <Route path="/phylogenetics" element={<PhylogeneticsPage />} />
             <Route path="/about" element={<AboutPage />} />
+            <Route path="/cellularimageanalysis" element={<CellularImageAnalysisPage />} />
           </Routes>
         </Container>
         <Footer />

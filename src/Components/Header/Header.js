@@ -13,6 +13,9 @@ const Header = () => {
                         style={{height:"40px"}}
                     />
                 </Navbar.Brand>
+                <Navbar.Brand href="/about" > 
+                About Us
+                </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
@@ -21,10 +24,6 @@ const Header = () => {
                             <NavDropdown.Item href="/dnasequenceanalysis"> DNA Sequence Analysis </NavDropdown.Item>
                             <NavDropdown.Item href="/phylogenetics"> Phylogenetics </NavDropdown.Item>
                             <NavDropdown.Item href="/cellularimageanalysis"> Cellular Image Analysis </NavDropdown.Item>
-                            <NavDropdown.Divider />
-                            <NavDropdown.Item href="/about">
-                            About Us 
-                            </NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
