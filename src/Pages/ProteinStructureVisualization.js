@@ -8,11 +8,13 @@ const ProteinStructureVisualizationPage = () => {
     const [pdbid, setPDBID] = useState("3ti6");
     const [pdbResID, setPDBResID] = useState("801");
     const [pdbChainID, setPDBChainID] = useState("A");
+    const [structureName, setStructureName] = useState("Crystal structure of 2009 pandemic H1N1 neuraminidase complexed with oseltamivir")
 
     return (
         <div>
             <h3> Protein Structure Visualization </h3>
             <Row className="mb-3 mt-4">
+                <h6> {structureName} </h6>
                 <Col xs lg={6} className="mt-5 mb-3">
                 <h5> 3D Molecular Viewer </h5>
                 <MolstarView pdbid={pdbid} />
