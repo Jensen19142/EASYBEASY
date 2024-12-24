@@ -13,6 +13,16 @@ const ProteinStructureVisualizationPage = () => {
     return (
         <div>
             <h3> Protein Structure Visualization </h3>
+            <p> 
+                With the help of various bioinformatics tools, bioinformaticians and computational biologists can visualize both the 2D and 3D structures of complex biological molecules, such as proteins and nucleic acids. These visualizations provide critical insights into molecular interactions, functions, and mechanisms, which are essential for advancing research in areas such as drug discovery, genomics, and structural biology. 
+                <br />
+                <br/>
+                    
+                In this section, two featured visualization tools are featured: the 3D Molecular Viewer and the 2D Protein-Ligand Interaction Map. These tools represent just a fraction of the many resources researchers use to explore and analyze protein structures. 
+                <br />
+                <br />
+                In the default example, both the 3D Molecular Viewer and the 2D Protein-Ligand Interaction Map showcases the 2009 pandemic H1N1 neuraminidase in complex with the oseltamivir drug in both 3D and 2D. 
+            </p>
             <Row className="mb-3 mt-4">
                 <h6> {structureName} </h6>
                 <Col xs lg={6} className="mt-5 mb-3">
