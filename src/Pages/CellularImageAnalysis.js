@@ -4,9 +4,8 @@ const CellularImageAnalysisPage = () => {
     return (
         <div>
             <h3> Cellular Image Analysis </h3>
-            <h5> Possible Ideas </h5>
-            <p> Tumour Detection </p>
-            <p> Cell Culture Flask Confluency Determination Tool </p>
+            <h5> Tumour Detection </h5>
+            <h5> Cell Culture Flask Confluency Determination Tool </h5>
         </div>
     );
 };
