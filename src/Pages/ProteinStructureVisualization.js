@@ -14,14 +14,17 @@ const ProteinStructureVisualizationPage = () => {
         <div>
             <h3> Protein Structure Visualization </h3>
             <p> 
-                With the help of various bioinformatics tools, bioinformaticians and computational biologists can visualize both the 2D and 3D structures of complex biological molecules, such as proteins and nucleic acids. These visualizations provide critical insights into molecular interactions, functions, and mechanisms, which are essential for advancing research in areas such as drug discovery, genomics, and structural biology. 
+                Protein Structure Visualization is the use of computer graphics programs to view, analyze, and manipulate the 3D and 2D structures of proteins to better understand their physical and functional properties. This involves using specialized software and tools to render atomic-level details of proteins, including the arrangement of amino acid residues, secondary structures (such as alpha-helices and beta-sheets), and their interactions with other molecules, such as ligands or DNA.  
+            </p>
+            <p> 
+                With the help of these various bioinformatics tools, bioinformaticians and computational biologists can visualize both the 2D and 3D structures of complex biological molecules, such as proteins and nucleic acids. These visualizations provide critical insights into molecular interactions, functions, and mechanisms, which are essential for advancing research in areas such as drug discovery, genomics, and structural biology. 
                 <br />
                 <br/>
                     
-                In this section, two featured visualization tools are featured: the 3D Molecular Viewer and the 2D Protein-Ligand Interaction Map. These tools represent just a fraction of the many resources researchers use to explore and analyze protein structures. 
+                In this section, two visualization tools are featured: the 3D Molecular Viewer and the 2D Protein-Ligand Interaction Map. These tools represent just a fraction of the many resources researchers use to explore and analyze protein structures. 
                 <br />
                 <br />
-                In the default example, both the 3D Molecular Viewer and the 2D Protein-Ligand Interaction Map showcases the 2009 pandemic H1N1 neuraminidase in complex with the oseltamivir drug in both 3D and 2D. 
+                In the default example below, both the 3D Molecular Viewer and the 2D Protein-Ligand Interaction Map showcases the 2009 pandemic H1N1 neuraminidase in complex with the oseltamivir drug in both 3D and 2D. 
             </p>
             <Row className="mb-3 mt-4">
                 <h6> {structureName} </h6>

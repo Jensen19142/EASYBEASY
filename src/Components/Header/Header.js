@@ -23,7 +23,7 @@ const Header = () => {
                             <NavDropdown.Item href="/proteinstructurevisualization"> Protein Structure Visualization </NavDropdown.Item>
                             <NavDropdown.Item href="/dnasequenceanalysis"> DNA Sequence Analysis </NavDropdown.Item>
                             <NavDropdown.Item href="/phylogenetics"> Phylogenetics </NavDropdown.Item>
-                            <NavDropdown.Item href="/cellularimageanalysis"> Cellular Image Analysis </NavDropdown.Item>
+                            <NavDropdown.Item href="/cellularimageanalysis"> Bioimage Informatics </NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>

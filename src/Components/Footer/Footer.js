@@ -9,8 +9,7 @@ class Footer extends React.Component {
             <Fragment>
                 <Row className="mt-5">
                     <div class="jumbotron text-center" className={Style.footerContainer}>
-                        <Form.Text style={{ color: "#333" }}>Diploma with Merit in Medical Biotechnology, Temasek Polytechnic {process.env.REACT_APP_VERSION}&nbsp;
-                            &#169; 13 October 2024, Tan Zhi Hui Jensen
+                        <Form.Text style={{ color: "#333" }}>Developed by Tan Zhi Hui Jensen Copyright {process.env.REACT_APP_VERSION}&nbsp; &#169; 13 October 2024. All Rights Reserved.
                         </Form.Text>
                     </div>
                 </Row>
