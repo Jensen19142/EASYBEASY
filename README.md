@@ -1,8 +1,9 @@
 # Notes to kickstart the EASYBEASY webpage 
-In Visual Studio Code, upon downloading the EASYBEASY repository, ensure that you run the command "cd easybeasy" in the terminal to change to the appropriate directory.
-After that, run the command "nvm install node" to update to the latest version of node. 
-Finally, run the command "npm start" to kickstart the webpage.
-
+Upon downloading the EASYBEASY repository, 
+    1. Run the command "cd easybeasy" in the terminal to change to the appropriate directory.
+    2. Run the command "nvm install node" to update to the latest version of node.
+    3. Run the command "npm start" to kickstart the webpage.
+    
 # Additional Notes
 ### Getting Started with Create React App
 

@@ -10,10 +10,7 @@ const AboutPage = () => {
         <div>
             <h3> About EASYBEASY Bioinformatics </h3>
             <p> 
-            EASYBEASY Bioinformatics is an educational platform designed to showcase the various sub-fields of bioinformatics. Through EASYBEASY, users can interact with a range of implemented tools to explore how bioinformatics is applied in biological research. The ultimate goal of EASYBEASY is to help users understand how bioinformaticians leverage programming and software tools to solve complex problems in biological science.
-            </p>
-            <p> 
-                Disclaimer: EASYBEASY Bioinformatics is an educational website designed to introduce basic-level knowledge on the various aspects of Bioinformatics.
+            EASYBEASY Bioinformatics is an educational platform designed to teach users about the fascinating world of bioinformatics. By featuring a variety of interactive tools and software, EASYBEASY allows users to experiment and explore the practical applications of bioinformatics in biological research. The platform is crafted to inspire users to feel like bioinformaticians themselves, gaining hands-on experience and insights into how programming and computational tools are utilized to solve complex problems in biological science. Through EASYBEASY, users can delve into the diverse sub-fields of bioinformatics and deepen their understanding of this dynamic field.
             </p>
             <h3> Meet the Team </h3>
 
