@@ -9,6 +9,7 @@ const DNAAnalysis = () => {
             <h5> DNA Profiling </h5>
             <p> Also add in CS50 PSET on DNA </p>
             <p> https://cs50.harvard.edu/x/2024/psets/6/dna/#problem-to-solve </p>
+            <h5> Take Inspiration from your A*STAR Influenza Dashboard </h5>
         </div>
     );
 };
