@@ -10,6 +10,7 @@ import DNAAnalysisPage from "./Pages/DNAAnalysisPage";
 import PhylogeneticsPage from "./Pages/PhylogeneticsPage";
 import AboutPage from "./Pages/AboutPage";
 import CellularImageAnalysisPage from "./Pages/CellularImageAnalysis";
+import InfectiousDiseaseSurveillance from "./Pages/Surveillance";
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
             <Route path="/phylogenetics" element={<PhylogeneticsPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/cellularimageanalysis" element={<CellularImageAnalysisPage />} />
+            <Route path="/surveillance" element={<InfectiousDiseaseSurveillance />} /> 
           </Routes>
         </Container>
         <Footer />
