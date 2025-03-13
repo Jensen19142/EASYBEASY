@@ -1,19 +1,21 @@
-import React from "react";
+import React, { useState } from "react";
 import PhylogeneticsTree from "../Components/PhylogeneticsTree";
 import Row from "react-bootstrap/Row";
 
 const PhylogeneticsPage = () => {
+    const [link, setLink] = useState("https://phylodynamics2.pandemicprepardness.org/H1N1/Global");
+    
     return (
         <div>
-            <h3> Phylogenetics </h3>
+            <h3> Phylodynamics </h3>
             <p> 
-                Phylogenetics is the scientific study of the evolutionary relationships and history among organisms, genes, or proteins. It aims to reconstruct the evolutionary tree of life, illustrating how different species or molecular sequences are related to one another and tracing their common ancestry. In bioinformatics, phylogenetic trees,  which are graphical representations of the evolutionary relationships between biological sequences, are created using molecular data like DNA or protein sequences to understand evolutionary history. 
+                Phylodynamics is a field that integrates evolutionary biology and epidemiology to study how infectious diseases spread and evolve, analyzing pathogen genomes and transmission dynamics to infer epidemiological parameters. Phylodynamics combines phylogenetic analysis (studying evolutionary relationships) with population dynamics (studying how populations change over time) to understand the emergence, spread, and evolution of pathogens. It aims to infer epidemiological parameters (like transmission rates, growth rates, and the time to the most recent common ancestor) from pathogen genome sequences and their sampling times. For instance, Phylodynamic studies have been used to understand the origins and spread of various pathogens, including viruses like SARS-CoV-2 and influenza.
             </p>
-            <h6> Phylogenetic Tree of Influenza Viruses </h6>
             <Row className="mb-3 mt-4">
-                <h5> Phylogenetic Tree </h5>
-                <PhylogeneticsTree />
-                <p> The phylogenetic tree presented above illustrates the evolutionary relationships among the four major types of influenza viruses: Influenza A, Influenza B, Influenza C, and Influenza D. The tree is structured to reflect the evolutionary divergence of these influenza types, with Influenza A displaying the most diversity due to antigenic drift and shift, leading to periodic pandemics. The branches of the tree are positioned to highlight hierarchical relationships, with broader classifications leading to more specific subtypes.  </p>
+                <h5> Phylodynamics of Influenza Virus H1N1 across the Globe </h5>
+                <PhylogeneticsTree 
+                    link={link}
+                    />
             </Row>
         </div>
     );

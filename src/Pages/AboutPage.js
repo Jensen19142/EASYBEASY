@@ -27,7 +27,7 @@ const AboutPage = () => {
                 />
                 <h6> Tan Zhi Hui Jensen </h6>
                 <p> 
-                    Full-Stack Developer and Creator of EASYBEASY Bioinformatics <br />
+                    Creator of EASYBEASY Bioinformatics and Full-Stack Developer <br />
                     Prospective Computer Science Undergraduate (Matriculation Year: 2026), National University of Singapore <br />
                     Diploma with Merit (2024) Medical Biotechnology, Temasek Polytechnic 
                 </p>

@@ -21,10 +21,10 @@ const Header = () => {
                     <Nav className="me-auto">
                         <NavDropdown title="Bioinformatics Tools" id="basic-nav-dropdown">
                             <NavDropdown.Item href="/proteinstructurevisualization"> Protein Structure Visualization </NavDropdown.Item>
-                            <NavDropdown.Item href="/dnasequenceanalysis"> DNA Sequence Analysis </NavDropdown.Item>
-                            <NavDropdown.Item href="/phylogenetics"> Phylogenetics </NavDropdown.Item>
-                            <NavDropdown.Item href="/cellularimageanalysis"> Bioimage Informatics </NavDropdown.Item>
+                            <NavDropdown.Item href="/phylogenetics"> Phylodynamics </NavDropdown.Item>
                             <NavDropdown.Item href="/surveillance"> Infectious Disease Surveillance</NavDropdown.Item>
+                            <NavDropdown.Item href="/dnasequenceanalysis"> DNA Sequence Analysis </NavDropdown.Item>
+                            <NavDropdown.Item href="/cellularimageanalysis"> Bioimage Informatics </NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
