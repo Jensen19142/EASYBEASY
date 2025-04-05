@@ -1,0 +1,474 @@
+Country,Virus Subtype,Virus Name,Collected
+Canada,A/H1N1,A/Turkey/MB/FAV-0117-005/2025,2025-03-26
+Russian Federation,A/H1N1,A/Petropavlovsk-Kamchatsky/RII-MH228632S/2025,2025-03-26
+Netherlands,A/H1N1,A/Netherlands/01629/2025,2025-03-23
+Spain,A/H1N1,A/Andalucia/PMC-00777/2025,2025-03-19
+Thailand,A/H1N1,A/Surat Thani/F1055/2025,2025-03-19
+France,A/H1N1,A/France/ARA-HCL025046246301/2025,2025-03-18
+South Africa,A/H1N1,A/South Africa/PATH-CERI-C066245/2025,2025-03-14
+United States,A/H1N1,A/swine/Iowa/A02858445/2025,2025-03-13
+Romania,A/H1N1,A/Romania_BB/590509/2025,2025-03-13
+Australia,A/H1N1,A/Victoria/296/2025,2025-03-11
+Cambodia,A/H1N1,A/Cambodia/ IAHC250009/2025,2025-03-09
+French Polynesia,A/H1N1,A/French Polynesia/HCL025044268601/2025,2025-03-08
+Denmark,A/H1N1,A/Denmark/2072/2025,2025-03-07
+Guatemala,A/H1N1,A/Palencia/FLU-043/2025,2025-03-06
+Malaysia,A/H1N1,A/Malaysia/IMR-SARI0591/2025,2025-03-06
+Italy,A/H1N1,A/Bolzano/13/2025,2025-03-05
+Moldova,A/H1N1,A/Moldova/02040263/2025,2025-03-03
+Sweden,A/H1N1,A/Sweden/SE25-03051/2025,2025-02-28
+Pakistan,A/H1N1,A/Pakistan/NIC/NIH/538/2025,2025-02-28
+Germany,A/H1N1,A/Germany/15730/2025,2025-02-27
+Switzerland,A/H1N1,A/SWITZERLAND/UN-SNRCI-HUG-47401281/2025,2025-02-26
+Hong Kong (SAR),A/H1N1,A/Hong Kong/GIHSN-HKU-250324-012/2025,2025-02-26
+Barbados,A/H1N1,A/Barbados/BPH3007544/2025,2025-02-26
+Norway,A/H1N1,A/Norway/03486/2025,2025-02-26
+Dominican Republic,A/H1N1,A/Dominican_Republic/274/2025,2025-02-25
+United Kingdom,A/H1N1,A/England/0940855/2025,2025-02-24
+Ukraine,A/H1N1,A/Ukraine/3720/2025,2025-02-21
+Vietnam,A/H1N1,A/Vietnam/PF325082/2025,2025-02-21
+Brazil,A/H1N1,A/Para/008010-IEC/2025,2025-02-17
+Belgium,A/H1N1,A/Belgium/S3231/2025,2025-02-15
+Indonesia,A/H1N1,A/Indonesia/BIOKES-A8DC125/2025,2025-02-14
+Guam,A/H1N1,A/Guam/5828/2025,2025-02-14
+Luxembourg,A/H1N1,A/Luxembourg/LNS8134106/2025,2025-02-13
+Oman,A/H1N1,A/Oman/CPHL_725831/2025,2025-02-11
+Slovakia,A/H1N1,A/Slovakia/UPHATSR-s_39712/2025,2025-02-07
+Puerto Rico,A/H1N1,A/Puerto Rico/06/2025,2025-02-06
+Korea,A/H1N1,A/Chungnam/622/2025,2025-02-04
+Saint Martin (French Part),A/H1N1,A/Saint Martin/01053/2025,2025-02-04
+Japan,A/H1N1,A/KANAGAWA/AC2408/2025,2025-02-03
+Austria,A/H1N1,A/Austria/1790612/2025,2025-02-03
+French Guiana,A/H1N1,A/French Guiana/220/2025,2025-02-02
+Ghana,A/H1N1,A/GhanaFS-25-0400/2025,2025-01-31
+Ireland,A/H1N1,A/Ireland/00011651/2025,2025-01-31
+Croatia,A/H1N1,A/Croatia/HZJZ_8369/2025,2025-01-30
+Honduras,A/H1N1,A/HONDURAS/094/2025,2025-01-29
+Bahrain,A/H1N1,A/Bahrain/1219/2025,2025-01-28
+Portugal,A/H1N1,A/Lisboa/17/2025,2025-01-27
+Sri Lanka,A/H1N1,A/Sri Lanka/14/2025,2025-01-22
+Cook Islands,A/H1N1,A/Cook Islands/3/2025,2025-01-22
+Armenia,A/H1N1,A/Yerevan/NCDC-2714/2025,2025-01-21
+Mexico,A/H1N1,A/Mexico/CMX_InDRE_F105/2025,2025-01-21
+Uzbekistan,A/H1N1,A/Tashkent/NRL-4151/2025,2025-01-17
+Morocco,A/H1N1,A/Morocco/856/2025,2025-01-16
+China,A/H1N1,A/Shanghai/KTRS20/2025,2025-01-15
+Martinique,A/H1N1,A/Martinique/IPP00982/2025,2025-01-14
+Poland,A/H1N1,A/Poland/56/2025,2025-01-13
+Montenegro,A/H1N1,A/Montenegro/1015352502/2025,2025-01-12
+New Caledonia,A/H1N1,A/New Caledonia/20/2025,2025-01-10
+Hungary,A/H1N1,A/HUNGARY/100331-UPL25-000469/2025,2025-01-10
+Serbia,A/H1N1,A/Serbia/72/2025,2025-01-09
+Finland,A/H1N1,A/Finland/645/2025,2025-01-09
+Lao,A/H1N1,A/Laos/00819-2685/2025,2025-01-09
+Kenya,A/H1N1,A/Kenya/AFI-ISB-1544/2025,2025-01-07
+Czech Republic,A/H1N1,A/Czech Republic/288/2025,2025-01-07
+Georgia,A/H1N1,A/Georgia/3/2025,2025-01-06
+Slovenia,A/H1N1,A/Slovenia/NLZOH-8008-21-17/2025,2025-01-06
+Algeria,A/H1N1,A/Algeria/448/2025,2025-01-05
+Lithuania,A/H1N1,A/Lithuania/MB250107_0040/2025,2025-01-03
+Madagascar,A/H1N1,A/Madagascar/00030/2025,2024-12-31
+Samoa,A/H1N1,A/Samoa/37/2024,2024-12-31
+Singapore,A/H1N1,A/Singapore/GP20405/2024,2024-12-30
+Chile,A/H1N1,A/Temuco/4907/2025,2024-12-28
+Colombia,A/H1N1,A/Colombia/7939/2024,2024-12-27
+Taiwan,A/H1N1,A/Taiwan/TYC2612a/2024,2024-12-26
+Israel,A/H1N1,A/Israel/R18527/2024,2024-12-26
+Peru,A/H1N1,A/Peru/LIM-UPCH-4908/2024,2024-12-23
+Guadeloupe,A/H1N1,A/Guadeloupe/RELAB-HCL024203715601/2024,2024-12-20
+Ecuador,A/H1N1,A/Ecuador/6640/2024,2024-12-20
+Mongolia,A/H1N1,A/Ulaanbaatar/3805/2024,2024-12-19
+Iran,A/H1N1,A/Iran/12U29/2024,2024-12-18
+Maldives,A/H1N1,A/Maldives/2395/2024,2024-12-17
+Kazakhstan,A/H1N1,A/Shymkent/NRL-2036/2024,2024-12-17
+Iceland,A/H1N1,A/Iceland/37256/2024,2024-11-29
+Bulgaria,A/H1N1,A/Bulgaria/3479/2024,2024-11-26
+Jamaica,A/H1N1,A/Jamaica/4828/2024,2024-11-24
+United Arab Emirates,A/H1N1,A/ABUDHABI/UAE/0014895/2024,2024-11-23
+Cameroon,A/H1N1,A/Cameroon/12199/2024,2024-11-22
+Latvia,A/H1N1,A/Latvia/11-060592/2024,2024-11-20
+Uganda,A/H1N1,A/Uganda/UVRI_KIS6868_2024,2024-11-19
+Cote d'Ivoire,A/H1N1,A/CoteD'Ivoire/4606/2024,2024-11-14
+Qatar,A/H1N1,A/Qatar/90351/2024,2024-11-13
+Philippines,A/H1N1,A/Philippines/27/2024,2024-11-04
+Afghanistan,A/H1N1,A/Afghanistan/3232/2024,2024-11-04
+Bhutan,A/H1N1,A/Bhutan/0013/2024,2024-10-31
+Bangladesh,A/H1N1,A/Bangladesh/2241013044/2024,2024-10-30
+India,A/H1N1,A/India/Pun-Nivcov244283/2024,2024-10-28
+Mauritius,A/H1N1,A/Mauritius/I-180/2024,2024-10-23
+Paraguay,A/H1N1,A/PARGUAY/CENTRAL/794358/2024,2024-09-13
+Brunei,A/H1N1,A/Brunei/167/2024,2024-09-11
+Papua New Guinea,A/H1N1,A/Papua New Guinea/5/2024,2024-09-05
+Nepal,A/H1N1,A/Nepal/N1428/2024,2024-08-29
+Costa Rica,A/H1N1,A/Costa_Rica/INC-963-841423/2024,2024-08-26
+Guyana,A/H1N1,A/Guyana/2235/2024,2024-08-26
+Mali,A/H1N1,A/Mali/24082/2024,2024-08-20
+Zambia,A/H1N1,A/Zambia/0500/2024,2024-08-20
+El Salvador,A/H1N1,A/El Salvador/3813/2024,2024-08-14
+New Zealand,A/H1N1,A/Wellington/63/2024,2024-08-12
+Myanmar,A/H1N1,A/Myanmar/24M287/2024,2024-08-02
+Solomon Islands,A/H1N1,A/Solomon Islands/3/2024,2024-07-25
+Burkina Faso,A/H1N1,A/Burkina Faso/4658/2024,2024-07-25
+Saudi Arabia,A/H1N1,A/SaudiArabia/15001/2024,2024-07-21
+Tonga,A/H1N1,A/Tonga/8/2024,2024-07-13
+Panama,A/H1N1,A/Panama/M273554/2024,2024-05-31
+Fiji,A/H1N1,A/Fiji/252/2024,2024-07-03
+Lebanon,A/H1N1,A/Lebanon/1474/2024,2024-07-03
+Nicaragua,A/H1N1,A/Nicaragua/12788-23AV1/2024,2024-06-26
+Togo,A/H1N1,A/Togo/0490/2024,2024-06-12
+Congo,A/H1N1,A/Congo/4937/2024,2024-06-07
+Argentina,A/H1N1,A/Argentina/1285/2024,2024-06-07
+Mozambique,A/H1N1,A/Maputo_City/PMB0704488/2024,2024-05-31
+Niger,A/H1N1,A/Niger/8506/2024,2024-04-10
+Kyrgyzstan,A/H1N1,A/Kyrgyzstan/19/2024,2024-04-04
+Estonia,A/H1N1,A/Estonia/178804/2024,2024-04-03
+Turkey,A/H1N1,A/Turkey/27148161/2024,2024-03-20
+Tunisia,A/H1N1,A/Tunisia/3493/2024,2024-03-18
+Suriname,A/H1N1,A/Suriname/0116/2024,2024-03-13
+Greece,A/H1N1,A/Greece/ILI P113/2024,2024-03-07
+Timor-Leste,A/H1N1,A/Timor-Leste/290/2024,2024-02-23
+Macedonia,A/H1N1,A/Macedonia/IPH-MKD-723G/2024,2024-02-21
+Albania,A/H1N1,A/Albania/302977/2024,2024-02-21
+Bosnia and Herzegovina,A/H1N1,A/BosniaAndHerzegovina/879/2024,2024-02-20
+Tajikistan,A/H1N1,A/Tajikistan/02-1057/2024,2024-02-19
+Palestinian Territory,A/H1N1,A/Palestine/14/2023,2024-01-15
+Senegal,A/H1N1,A/Senegal/0126/2024,2024-01-09
+Egypt,A/H1N1,A/Egypt/2281932/2023,2023-12-18
+Netherlands Antilles,A/H1N1,A/Curacao/10587/2023,2023-12-11
+Ethiopia,A/H1N1,EPI0070/A/Ethiopia/ADR668/2023,2023-11-21
+Haiti,A/H1N1,A/Haiti/90262/2023,2023-11-08
+Mayotte,A/H1N1,A/Mayotte/HCL023169691301/2023,2023-10-21
+Nigeria,A/H1N1,A/Nigeria/9243/2023,2023-09-04
+Venezuela,A/H1N1,A/Venezuela/8819/2023,2023-08-11
+Uruguay,A/H1N1,A/Uruguay/1888/2023,2023-07-21
+Central African Republic,A/H1N1,A/Bangui/125/2023,2023-07-20
+Bolivia,A/H1N1,A/Bolivia/5397/2023,2023-06-28
+Vanuatu,A/H1N1,A/Vanuatu/15/2023,2023-06-21
+Trinidad and Tobago,A/H1N1,A/Trinidad/0878/2023,2023-06-17
+Antarctica,A/H1N1,A/Chionis albus/Fildes Peninsula,2023-05-22
+Belize,A/H1N1,A/Belize/0291/2023,2023-04-21
+Kuwait,A/H1N1,A/Kuwait/USAFSAM-14206/2023,2023-04-18
+Kosovo,A/H1N1,A/Kosovo/1488/2023,2023-04-04
+Grenada,A/H1N1,A/Grenada/7677/2023,2023-03-20
+Reunion,A/H1N1,A/Reunion/HCL023041620501/2023,2023-03-09
+Dominica,A/H1N1,A/Dominica/0715/2023,2023-03-07
+Cyprus,A/H1N1,A/Cyprus/318/2023,2023-02-20
+Tuvalu,A/H1N1,A/Tuvalu/GX23158/2023,2023-02-20
+Syrian Arab Republic,A/H1N1,A/Syrian Arab Republic/7452/2023,2023-02-20
+Saint Lucia,A/H1N1,A/Saint Lucia/6161/2023,2023-02-16
+Somalia,A/H1N1,A/Somalia/356/2022,2022-05-25
+Monaco,A/H1N1,A/Monaco/HCL021210389201/2021,2021-10-26
+Netherlands,A/H3N2,A/Netherlands/01675/2025,2025-03-25
+France,A/H3N2,A/France/OCC-RELAB-HCL025051251901/2025,2025-03-22
+Thailand,A/H3N2,A/Bangkok/F1046/2025,2025-03-20
+Spain,A/H3N2,A/Andalucia/PMC-00779/2025,2025-03-19
+Italy,A/H3N2,A/Bari/34/2025,2025-03-18
+Romania,A/H3N2,A/Romania_BB/590508/2025,2025-03-13
+Denmark,A/H3N2,A/Denmark/2080/2025,2025-03-10
+Moldova,A/H3N2,A/Moldova/02040420/2025,2025-03-09
+Cambodia,A/H3N2,A/Cambodia/ IMDK250004/2025,2025-03-09
+United States,A/H3N2,A/Nebraska/49/2025,2025-03-08
+Australia,A/H3N2,A/Victoria/257/2025,2025-03-07
+Russian Federation,A/H3N2,A/Saint-Petersburg/RII-2016S/2025,2025-03-06
+Guatemala,A/H3N2,A/Fraijanes/FLU-045/2025,2025-03-05
+Malaysia,A/H3N2,A/Malaysia/IMR-SARI0582/2025,2025-03-04
+Canada,A/H3N2,A/Manitoba/RV01942-25/2025,2025-03-04
+Vietnam,A/H3N2,A/Vietnam/PF325098/2025,2025-03-04
+Norway,A/H3N2,A/Norway/03470/2025,2025-03-01
+Barbados,A/H3N2,A/Barbados/BPH3008042/2025,2025-02-28
+Switzerland,A/H3N2,A/SWITZERLAND/UN-SNRCI-HUG-47433403/2025,2025-02-28
+United Kingdom,A/H3N2,A/England/1000848/2025,2025-02-27
+Germany,A/H3N2,A/Germany/15732/2025,2025-02-27
+South Africa,A/H3N2,A/South Africa/PATH-CERI-C066263/2025,2025-02-25
+Sweden,A/H3N2,A/Sweden/SE25-50733/2025,2025-02-25
+Qatar,A/H3N2,A/Qatar/15734/2025,2025-02-25
+Ukraine,A/H3N2,A/Ukraine/3474/2025,2025-02-20
+Oman,A/H3N2,A/Oman/CPHL_725830/2025,2025-02-18
+Hong Kong (SAR),A/H3N2,A/Hong Kong/580/2025,2025-02-18
+Belgium,A/H3N2,A/Belgium/S3233/2025,2025-02-17
+Japan,A/H3N2,A/KANAGAWA/AC2409/2025,2025-02-16
+Guam,A/H3N2,A/Guam/5827/2025,2025-02-14
+Luxembourg,A/H3N2,A/Luxembourg/LNS3307598/2025,2025-02-12
+Puerto Rico,A/H3N2,A/Puerto Rico/07/2025,2025-02-10
+Slovakia,A/H3N2,A/Slovakia/UPHATSR-s_39711/2025,2025-02-05
+Portugal,A/H3N2,A/Lisboa/47/2025,2025-02-05
+Korea,A/H3N2,A/Incheon/636/2025,2025-02-04
+Uganda,A/H3N2,A/Uganda/UVRI_KIS6910/2024,2025-02-04
+Honduras,A/H3N2,A/HONDURAS/090/2025,2025-01-31
+Ghana,A/H3N2,A/Ghana/FS-25-0395/2025,2025-01-30
+Mexico,A/H3N2,A/Mexico/CMX_InDRE_134/2025,2025-01-28
+Nepal,A/H3N2,A/Nepal/N132/2025,2025-01-28
+French Guiana,A/H3N2,A/French Guiana/186/2025,2025-01-28
+Austria,A/H3N2,A/Austria/17877901/2025,2025-01-27
+Brazil,A/H3N2,A/Ceara/004379-IEC/2025,2025-01-25
+Hungary,A/H3N2,A/Hungary/29/2025,2025-01-17
+Kenya,A/H3N2,A/Kenya/AFI-LKN-003/2025,2025-01-16
+Croatia,A/H3N2,A/Croatia/HZJZ_8338/2025,2025-01-15
+Bahrain,A/H3N2,A/Bahrain/1493/2025,2025-01-14
+Solomon Islands,A/H3N2,A/Solomon Islands/8/2025,2025-01-10
+Poland,A/H3N2,A/Poland/12/2025,2025-01-09
+French Polynesia,A/H3N2,A/Tahiti/3/2025,2025-01-09
+Ecuador,A/H3N2,A/Ecuador/6169/2025,2025-01-08
+Montenegro,A/H3N2,A/Montenegro/1004782502/2025,2025-01-08
+China,A/H3N2,A/Hainan-Danzhou/119/2025,2025-01-07
+Algeria,A/H3N2,A/Algeria/339/2025,2025-01-07
+New Caledonia,A/H3N2,A/New Caledonia/12/2025,2025-01-06
+Finland,A/H3N2,A/Finland/644/2025,2025-01-06
+Sri Lanka,A/H3N2,A/Sri Lanka/4/2025,2025-01-05
+Singapore,A/H3N2,A/Singapore/CGH0162/2024,2024-12-30
+Israel,A/H3N2,A/Israel/R18785/2024,2024-12-30
+Ireland,A/H3N2,A/Ireland/00094642/2024,2024-12-27
+Bhutan,A/H3N2,A/Bhutan/1953/2024,2024-12-25
+Chile,A/H3N2,A/Talca/102449/2024,2024-12-24
+India,A/H3N2,A/India/Pune-NIV24_3439/2024,2024-12-24
+Madagascar,A/H3N2,A/Madagascar/81992/2024,2024-12-24
+Maldives,A/H3N2,A/Maldives/2410/2024,2024-12-23
+Lao,A/H3N2,A/Laos/00925-1664/2024,2024-12-19
+Turkmenistan,A/H3N2,A/Turkmenistan/801/2025,2024-12-07
+Jamaica,A/H3N2,A/Jamaica/0418/2024,2024-12-06
+Lithuania,A/H3N2,A/Lithuania/MB241210_0042/2024,2024-12-06
+Bulgaria,A/H3N2,A/Bulgaria/3618/2024,2024-12-04
+Colombia,A/H3N2,A/Colombia/7835/2024,2024-12-04
+Indonesia,A/H3N2,A/Indonesia/BIOKES-IBPP681/2024,2024-12-01
+Kiribati,A/H3N2,A/Kiribati/3/2024,2024-11-30
+Iceland,A/H3N2,A/Iceland/37274/2024,2024-11-29
+Fiji,A/H3N2,A/Fiji/315/2024,2024-11-27
+Mauritius,A/H3N2,A/Mauritius/1186307/2024,2024-11-26
+Slovenia,A/H3N2,A/Slovenia/NLZOH-8008-21-2023/2024,2024-11-26
+Iran,A/H3N2,A/Iran/8N28/2024,2024-11-24
+Peru,A/H3N2,A/Peru/2014/2024,2024-11-21
+Taiwan,A/H3N2,A/Taiwan/S25987/2024,2024-11-17
+United Arab Emirates,A/H3N2,A/ABUDHABI/UAE/0021361/2024,2024-11-15
+Cote d'Ivoire,A/H3N2,A/CoteD'Ivoire/4592/2024,2024-11-14
+Dominican Republic,A/H3N2,A/Dominican_Republic/1551/2024,2024-11-05
+Philippines,A/H3N2,A/Philippines/2556/2024,2024-10-28
+Samoa,A/H3N2,A/Samoa/34/2024,2024-10-26
+Brunei,A/H3N2,A/Brunei/177/2024,2024-10-26
+Togo,A/H3N2,A/Kara/1336/2024,2024-10-22
+Senegal,A/H3N2,A/Dakar/042/2024,2024-10-07
+Niger,A/H3N2,A/Niger/141/2024,2024-09-20
+Guyana,A/H3N2,A/Guyana/4884/2024,2024-09-14
+Paraguay,A/H3N2,A/PARGUAY/SAN LORENZO/794091/2024,2024-09-09
+El Salvador,A/H3N2,A/El Salvador/4074/2024,2024-09-04
+Mali,A/H3N2,A/Mali/24081/2024,2024-09-02
+Costa Rica,A/H3N2,A/Costa_Rica/INC-965-841440/2024,2024-08-29
+Zambia,A/H3N2,A/Zambia/0238/2024,2024-08-28
+Myanmar,A/H3N2,A/Myanmar/24M411/2024,2024-08-27
+Bangladesh,A/H3N2,A/Bangladesh/3883/2024,2024-08-27
+New Zealand,A/H3N2,A/Nelson Marlborough/23/2024,2024-08-21
+Panama,A/H3N2,A/Panama/M273752/2024,2024-08-07
+Burkina Faso,A/H3N2,A/Burkina Faso/2560/2024,2024-08-05
+Sierra Leone,A/H3N2,A/Sierra Leone/0026/2024,2024-07-31
+Saudi Arabia,A/H3N2,A/Saudi Arabia/PHL/FL15910/2024,2024-07-28
+Central African Republic,A/H3N2,A/Bangui/212/2024,2024-07-25
+Argentina,A/H3N2,A/Argentina/C44371/2024,2024-07-10
+Nicaragua,A/H3N2,A/Nicaragua/7988-03-TR2AR2/2024,2024-07-08
+Uruguay,A/H3N2,A/Uruguay/1397/2024,2024-07-08
+Papua New Guinea,A/H3N2,A/Papua New Guinea/3/2024,2024-07-05
+Cameroon,A/H3N2,A/Cameroon/7198/2024,2024-07-04
+Bolivia,A/H3N2,A/Bolivia/11136/2024,2024-07-01
+Mozambique,A/H3N2,A/Maputo_City/PMB0704491/2024,2024-05-31
+Mongolia,A/H3N2,A/Ulaanbaatar/1107/2024,2024-05-16
+Nigeria,A/H3N2,A/Nigeria/0117/2024,2024-05-13
+Uzbekistan,A/H3N2,A/Tashkent/NRL-1759/2024,2024-05-07
+Haiti,A/H3N2,A/Haiti/0092/2024,2024-05-03
+Czech Republic,A/H3N2,A/Czech Republic/2157/2024,2024-04-17
+Macedonia,A/H3N2,A/Macedonia/5/2024,2024-04-01
+Bosnia and Herzegovina,A/H3N2,A/BosniaAndHerzegovina/13/2024,2024-04-01
+Greece,A/H3N2,A/Athens.GR/ILI P167/2024,2024-04-01
+Turkey,A/H3N2,A/Turkey/27174042/2024,2024-03-27
+Serbia,A/H3N2,A/Serbia/2620/2024,2024-03-27
+Palestinian Territory,A/H3N2,A/Palestine/20R/2024,2024-03-25
+Pakistan,A/H3N2,A/Pakistan/ICT/960/2024,2024-03-22
+Tunisia,A/H3N2,A/Tunisia/3488/2024,2024-03-18
+Lebanon,A/H3N2,A/Lebanon/293/2024,2024-03-18
+Albania,A/H3N2,A/Albania/303794/2024,2024-03-14
+Estonia,A/H3N2,A/Estonia/179133/2024,2024-03-04
+Martinique,A/H3N2,A/Martinique/256/2024,2024-02-28
+Kyrgyzstan,A/H3N2,A/Kyrgyzstan/17/2024,2024-02-26
+Morocco,A/H3N2,A/Morocco/1876/2024,2024-02-21
+Timor-Leste,A/H3N2,A/Timor-Leste/281/2024,2024-02-20
+Kazakhstan,A/H3N2,A/swine/Karaganda/36/2024,2024-02-19
+Suriname,A/H3N2,A/Suriname/0056/2024,2024-02-15
+Georgia,A/H3N2,A/Georgia/K-454/2024,2024-02-12
+Latvia,A/H3N2,A/Latvia/01-066146/2024,2024-01-20
+Armenia,A/H3N2,A/Armenia/144/2024,2024-01-12
+Afghanistan,A/H3N2,A/Afghanistan/0321/2024,2024-01-03
+Tajikistan,A/H3N2,A/Tajikistan/01-954/2024,2024-01-02
+Tanzania,A/H3N2,A/Tanzania/1488/2023,2023-12-28
+Congo,A/H3N2,A/Congo/2234/2023,2023-12-08
+Ethiopia,A/H3N2,EPI0074/A/Ethiopia/ADR698/2023,2023-11-30
+Mayotte,A/H3N2,A/Mayotte/HCL023169698901/2023,2023-10-21
+Venezuela,A/H3N2,A/Venezuela/4978/2023,2023-10-12
+Tuvalu,A/H3N2,A/Tuvalu/21/2023,2023-09-20
+Reunion,A/H3N2,A/Reunion/HCL023156620001/2023,2023-09-15
+Egypt,A/H3N2,A/Egypt/2337284/2023,2023-05-13
+Belize,A/H3N2,A/Belize/1156/2023,2023-04-27
+Guadeloupe,A/H3N2,A/Guadeloupe/252/2023,2023-03-27
+Anguilla,A/H3N2,A/Anguilla/6180/2023,2023-02-27
+Kosovo,A/H3N2,A/Kosovo/891/2023,2023-02-23
+Trinidad and Tobago,A/H3N2,A/Trinidad/2140/2023,2023-01-19
+Saint Kitts and Nevis,A/H3N2,A/St Kitts/2054/2023,2023-01-09
+Bermuda,A/H3N2,A/Bermuda/3595/2023,2023-01-06
+Cyprus,A/H3N2,A/Cyprus/37/2022,2022-12-25
+Dominica,A/H3N2,A/Dominica/3815/2022,2022-12-12
+Saint Vincent and the Grenadines,A/H3N2,A/St. Vincent And Grenadines/8728/2022,2022-09-11
+Vanuatu,A/H3N2,A/Vanuatu/4/2022,2022-07-08
+Gabon,A/H3N2,A/Gabon/CERMEL-B0008/2021,2021-07-29
+France,B/Victoria,B/France/ARA-HCL025049984301/2025,2025-03-25
+Netherlands,B/Victoria,B/Netherlands/01681/2025,2025-03-24
+Thailand,B/Victoria,B/Nonthaburi/FSEQ3/2025,2025-03-20
+Spain,B/Victoria,B/Andalucia/PMC-00778/2025,2025-03-19
+Italy,B/Victoria,B/Bari/33/2025,2025-03-15
+Romania,B/Victoria,B/Romania_BB/590555/2025,2025-03-14
+Russian Federation,B/Victoria,B/Saint-Petersburg/RII-2094S/2025,2025-03-11
+United States,B/Victoria,B/Nebraska/10/2025,2025-03-08
+Canada,B/Victoria,B/Manitoba/RV01945-25/2025,2025-03-07
+Denmark,B/Victoria,B/Denmark/425/2025,2025-03-07
+United Kingdom,B/Victoria,B/GwaunCaeGurwen/6522/2025,2025-03-05
+Norway,B/Victoria,B/Norway/03507/2025,2025-02-27
+Germany,B/Victoria,B/Germany/15743/2025,2025-02-27
+Sweden,B/Victoria,B/Sweden/SE25-50761/2025,2025-02-27
+Austria,B/Victoria,B/Austria/1797975/2025,2025-02-27
+Malaysia,B/Victoria,B/Malaysia/IMR-SARI0588/2025,2025-02-26
+Australia,B/Victoria,B/Victoria/48/2025,2025-02-25
+Ukraine,B/Victoria,B/Ukraine/3471/2025,2025-02-24
+Brazil,B/Victoria,B/Para/008001-IEC/2025,2025-02-21
+Belgium,B/Victoria,B/Belgium/S3219/2025,2025-02-19
+South Africa,B/Victoria,B/South Africa/PATH-CERI-C066256/2025,2025-02-18
+Switzerland,B/Victoria,B/SWITZERLAND/UN-SNRCI-HUG-47302703/2025,2025-02-17
+Luxembourg,B/Victoria,B/Luxembourg/LNS6549242/2025,2025-02-17
+Portugal,B/Victoria,B/Lisboa/86/2025,2025-02-10
+Ireland,B/Victoria,B/Ireland/00000065/2025,2025-02-07
+Hong Kong (SAR),B/Victoria,B/Hong Kong/21/2025,2025-02-06
+Korea,B/Victoria,B/Gwangju/579/2025,2025-02-04
+Slovakia,B/Victoria,B/Slovakia/UPHATSR-s_39709/2025,2025-02-04
+Mayotte,B/Victoria,B/Mayotte/HCL025021151701/2025,2025-01-31
+Croatia,B/Victoria,B/Croatia/HZJZ_8270/2025,2025-01-30
+Nepal,B/Victoria,B/Nepal/S345/2025,2025-01-26
+Kazakhstan,B/Victoria,B/Shymkent/NRL-2382/2025,2025-01-23
+Indonesia,B/Victoria,B/Indonesia/BIOKES-SRHS76/2025,2025-01-23
+Pakistan,B/Victoria,A/Pakistan/NIC/JHL/44/2025,2025-01-22
+Vietnam,B/Victoria,A/Vietnam/PF125030/2025,2025-01-22
+Madagascar,B/Victoria,B/Madagascar/00139/2025,2025-01-20
+Guatemala,B/Victoria,B/Tacana/FLU-006/2025,2025-01-17
+Montenegro,B/Victoria,B/Montenegro/1039342502/2025,2025-01-15
+Kenya,B/Victoria,AFI-LKN-001/2025,2025-01-15
+French Guiana,B/Victoria,B/ French Guiana/074/2025,2025-01-13
+Guam,B/Victoria,B/Guam/5544/2025,2025-01-13
+Georgia,B/Victoria,B/Georgia/61/2025,2025-01-13
+Sri Lanka,B/Victoria,B/Sri Lanka/3/2025,2025-01-13
+Finland,B/Victoria,B/Finland/646/2025,2025-01-10
+Puerto Rico,B/Victoria,B/Puerto Rico/02/2025,2025-01-10
+Czech Republic,B/Victoria,B/Czech Republic/124/2025,2025-01-10
+China,B/Victoria,B/Shanghai-Changning/149/2025,2025-01-09
+Poland,B/Victoria,B/Poland/61/2025,2025-01-08
+French Polynesia,B/Victoria,B/Tahiti/2/2025,2025-01-08
+Hungary,B/Victoria,B/Hungary/23/2025,2025-01-07
+Slovenia,B/Victoria,B/Slovenia/NLZOH-8008-21-14/2025,2025-01-06
+Algeria,B/Victoria,B/Algeria/278/2025,2025-01-05
+Andorra,B/Victoria,B/Andorra/353/2025,2025-01-05
+Japan,B/Victoria,B/TOKYO/EIS11-453/2025,2025-01-04
+Israel,B/Victoria,B/Israel/R18869/2024,2024-12-31
+Singapore,B/Victoria,B/Singapore/GP20446/2024,2024-12-31
+Chile,B/Victoria,B/Vi?a del Mar/179/2025,2024-12-28
+Taiwan,B/Victoria,B/Taiwan/HCC2312a/2024,2024-12-23
+India,B/Victoria,B/India/Pune-NIV24_3413/2024,2024-12-20
+Bolivia,B/Victoria,B/Bolivia/12877/2024,2024-12-12
+Cambodia,B/Victoria,B/Cambodia/i1225394/2024,2024-12-10
+Maldives,B/Victoria,B/Maldives/2370/2024,2024-12-08
+Bhutan,B/Victoria,B/Bhutan/2202/2024,2024-12-06
+Peru,B/Victoria,B/Peru/06210Abosb/2024,2024-12-02
+Bulgaria,B/Victoria,B/Bulgaria/3539/2024,2024-11-29
+Lithuania,B/Victoria,B/Lithuania/MB241128_0033/2024,2024-11-27
+Senegal,B/Victoria,B/Senegal/IPD-5530/2024,2024-11-27
+Colombia,B/Victoria,B/Colombia/1848/2024,2024-11-25
+Mexico,B/Victoria,B/Mexico/5673/2024,2024-11-25
+Philippines,B/Victoria,B/Philippines/17/2024,2024-11-21
+Bahrain,B/Victoria,B/Bahrain/0790/2024,2024-11-20
+Latvia,B/Victoria,B/Latvia/11-066074/2024,2024-11-19
+United Arab Emirates,B/Victoria,B/Abu Dhabi/1577/2024,2024-11-18
+Lao,B/Victoria,B/Laos/2943/2024,2024-11-13
+Ghana,B/Victoria,B/Ghana/7292/2024,2024-11-12
+Qatar,B/Victoria,B/Qatar/89041/2024,2024-11-10
+Afghanistan,B/Victoria,B/Afghanistan/2779/2024,2024-10-24
+Argentina,B/Victoria,B/Argentina/1926/2024,2024-10-08
+Cote d'Ivoire,B/Victoria,B/CoteD'Ivoire/4027/2024,2024-10-03
+Ecuador,B/Victoria,B/Ecuador/1625/2024,2024-10-03
+Zambia,B/Victoria,B/Zambia/0867/2024,2024-10-02
+El Salvador,B/Victoria,B/El Salvador/4180/2024,2024-09-23
+Paraguay,B/Victoria,B/Paraguay/4203/2024,2024-09-09
+Myanmar,B/Victoria,B/Myanmar/24M423/2024,2024-09-03
+Costa Rica,B/Victoria,B/Costa Rica/0842/2024,2024-08-21
+Oman,B/Victoria,B/Salalah/52423024/2024,2024-08-13
+Papua New Guinea,B/Victoria,B/Papua New Guinea/7/2024,2024-08-05
+New Zealand,B/Victoria,B/Auckland/04/2024,2024-08-01
+Panama,B/Victoria,A/Panama/M273613/2024,2024-07-16
+Togo,B/Victoria,B/Togo/0621/2024,2024-07-15
+Fiji,B/Victoria,B/Fiji/2/2024,2024-07-03
+Cameroon,B/Victoria,B/Cameroon/6563/2024,2024-06-17
+Saudi Arabia,B/Victoria,B/SaudiArabia/12899/2024,2024-06-12
+Nigeria,B/Victoria,B/Nigeria/0120/2024,2024-06-08
+Guyana,B/Victoria,B/Guyana/1243/2024,2024-06-05
+Niger,B/Victoria,B/Niger/111/2024,2024-05-28
+Mali,B/Victoria,B/Mali/24031/2024,2024-05-21
+Mongolia,B/Victoria,B/Gobi-Altai/1136/2024,2024-05-20
+Brunei,B/Victoria,B/Brunei/28/2024,2024-05-13
+Serbia,B/Victoria,B/Serbia/3517/2024,2024-05-12
+Iceland,B/Victoria,B/Iceland/13541/2024,2024-04-30
+Estonia,B/Victoria,B/Estonia/KL2271/2024,2024-04-30
+Macedonia,B/Victoria,B/Macedonia/IPH-MKD-1014G/2024,2024-04-26
+Kyrgyzstan,B/Victoria,B/Kyrgyzstan/20/2024,2024-04-25
+Turkey,B/Victoria,B/Turkey/27253933/2024,2024-04-24
+Burkina Faso,B/Victoria,B/Burkina Faso/4364/2024,2024-04-14
+Greece,B/Victoria,B/Athens.GR/SARI7055/2024,2024-04-11
+Palestinian Territory,B/Victoria,B/Palestine/21N/2024,2024-04-07
+Albania,B/Victoria,B/Albania/304274/2024,2024-04-03
+Lebanon,B/Victoria,B/Lebanon/1016/2024,2024-04-02
+Mozambique,B/Victoria,B/Mozambique/695860/2024,2024-02-27
+Morocco,B/Victoria,B/Morocco/1847/2024,2024-02-16
+Iran,B/Victoria,B/Tehran/IR-9j/2024,2024-02-01
+Turkmenistan,B/Victoria,B/Ashabat/1/2024,2024-01-23
+Honduras,B/Victoria,B/HONDURAS/024/2024,2024-01-23
+Bosnia and Herzegovina,B/Victoria,B/BosniaAndHerzegovina/2442/2023,2023-12-20
+Nicaragua,B/Victoria,B/Nicaragua/12242-16AV1/2023,2023-12-18
+Central African Republic,B/Victoria,B/Bangui/320/2023,2023-12-09
+Venezuela,B/Victoria,B/Venezuela/7513/2023,2023-11-01
+Bangladesh,B/Victoria,B/Bangladesh/0016/2023,2023-10-18
+Mauritius,B/Victoria,B/Mauritius/P52809/2023,2023-09-11
+Suriname,B/Victoria,B/Suriname/0639/2023,2023-08-27
+Haiti,B/Victoria,B/Haiti/50707/2023,2023-08-16
+Barbados,B/Victoria,B/Barbados/8895/2023,2023-08-14
+Trinidad and Tobago,B/Victoria,B/Trinidad/1686/2023,2023-08-06
+Uruguay,B/Victoria,B/Uruguay/1981/2023,2023-07-31
+Saint Vincent and the Grenadines,B/Victoria,B/St. Vincent And Grenadines/1639/2023,2023-07-17
+Belize,B/Victoria,B/Belize/7027/2023,2023-06-19
+Tuvalu,B/Victoria,B/Tuvalu/6/2023,2023-06-15
+Grenada,B/Victoria,B/Grenada/0873/2023,2023-06-12
+Vanuatu,B/Victoria,B/Vanuatu/9/2023,2023-06-02
+Timor-Leste,B/Victoria,B/Timor-Leste/33/2023,2023-05-09
+Moldova,B/Victoria,B/Moldova/2031877/2023,2023-04-20
+Kosovo,B/Victoria,B/Kosovo/1571/2023,2023-04-18
+New Caledonia,B/Victoria,B/New Caledonia/23/2023,2023-04-17
+Dominica,B/Victoria,B/Dominica/0731/2023,2023-04-12
+Samoa,B/Victoria,B/Samoa/9/2023,2023-04-07
+Tajikistan,B/Victoria,B/Tajikistan/1728/2023,2023-04-03
+Martinique,B/Victoria,B/Martinique/272/2023,2023-03-30
+Guadeloupe,B/Victoria,B/Guadeloupe/253/2023,2023-03-29
+Saint Lucia,B/Victoria,B/Saint Lucia/8041/2023,2023-03-20
+Tunisia,B/Victoria,B/Tunisia/3849/2023,2023-03-18
+Jamaica,B/Victoria,B/Jamaica/3195/2023,2023-03-07
+Gabon,B/Victoria,B/Gabon/127/2023,2023-03-02
+Tonga,B/Victoria,B/Tonga/9/2023,2023-03-02
+Armenia,B/Victoria,B/Armenia/622/2023,2023-02-07
+Syrian Arab Republic,B/Victoria,B/Syrian Arab Republic/7369/2023,2023-01-24
+Congo,B/Victoria,B/Congo/036/2023,2023-01-09
+Ethiopia,B/Victoria,B/Ethiopia/3006/2023,2023-01-05
+Reunion,B/Victoria,B/Reunion/HCL023041649601/2022,2022-12-29
+Egypt,B/Victoria,B/Egypt/2327683/2022,2022-12-01
+Uganda,B/Victoria,B/Uganda/1966/2022,2022-11-20
+Netherlands,B/Yamagata,B/Phuket/3073/2013,2023-04-25
+United Kingdom,B/Yamagata,B/United Kingdom/UO-703/2023,2023-03-14
+Australia,B/Yamagata,B/Australia/un-VIDRL-18394337/2023,2023-01-01
+Greece,B/Yamagata,B/Greece/def2/2022,2022-06-27
+Kenya,B/Yamagata,B/Kenya/KCH210627/2021,2021-11-16
