@@ -12,6 +12,10 @@ const SurveillanceRelativeFrequency = () => {
     colorField: 'vn',
     shapeField: 'smooth',
     stack: true, // Try to remove this line.
+    meta: {
+      ym: { alias: "Date"},
+      p: { alias: "Relative Frequency %"}
+    },
   };
   return <Area {...config} />;
 };
