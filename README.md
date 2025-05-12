@@ -5,8 +5,6 @@ Bioinformatics Sub-Fields Covered: <br>
     1. Protein Structure Visualization <br>
     2. Phylodynamics <br>
     3. Infectious Disease Surveillance <br>
-    4. DNA Sequence Analysis <br>
-    5. Bioimage Informatics <br>
 
 # Getting Started  
 Upon downloading the EASYBEASY repository, <br>
